@@ -1,4 +1,4 @@
-# Team Management System | Desktop Application Case Study
+## Team Management System | Desktop Application Case Study
 
 ## 📌 Project Overview
 **Team Management System** is a high-performance desktop application developed with **C# and WinForms**. This repository serves as a **Technical Case Study** showcasing a secure, event-driven workflow for managing team tasks and sub-tasks in a Windows environment.
@@ -49,4 +49,3 @@ https://github.com/user-attachments/assets/1f74f685-ef59-45cd-b9b7-5429a791aa35
 The source code is kept in a **Private Repository**. This Case Study highlights architecture, SQL integration, and UI design skills.
 
 ---
-**Developed by [Your Name]**
