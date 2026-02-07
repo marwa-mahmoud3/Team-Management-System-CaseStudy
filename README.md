@@ -1,9 +1,12 @@
 ## Team Management System | Desktop Application Case Study
 
 ## 📌 Project Overview
+
 **Team Management System** is a high-performance desktop application developed with C# and WinForms during my studies at Information Technology Institute (ITI) in 2021. This repository serves as a Technical Case Study showcasing a secure, event-driven workflow for managing team tasks and sub-tasks in a Windows environment.
 
 The application enables team leaders and administrators to create teams, assign tasks to members, track progress, and archive completed work - all within an intuitive Windows desktop interface.
+
+---
 
 ## 🛠️ Technical Stack (Deep Dive)
 - **Language:** C# (.NET Framework 4.5).
@@ -12,7 +15,8 @@ The application enables team leaders and administrators to create teams, assign 
 - **Patterns:** Object-Oriented Programming(OOP).
 - **Communication:** Static Events & Actions for inter-form data synchronization.
 - **Version Control:** Git & Github.
-- **Communication:** Static Events & Actions for inter-form data synchronization.
+
+---
 
 ## 🚀 System Architecture & Workflow
 
@@ -47,7 +51,7 @@ A sophisticated **Archive Module** handles the "Soft Delete" and "Restore" funct
 - **Data Integrity:** Maintains referential integrity between tasks and sub-tasks
 
 ## 📸 Visual Journey & Screenshots
-*(All screenshots are organized in the [/Gallery](/Gallery) folder)*
+*(All screenshots are organized in the [/Gallery](https://github.com/marwa-mahmoud3/Team-Management-System-CaseStudy/tree/main/Gallery) folder)*
 1. **Main-Interface** - Welcome screen with creative illustrations showcasing teamwork and collaboration
 2. **User-Registration** - Clean registration form with user icon, email, and password fields
 3. **Login-Interface** - Secure login portal with "Sign Up" redirection for new users
@@ -116,7 +120,7 @@ The project demonstrates practical application of theoretical concepts learned d
 **Database Integration**
 
 - Designed normalized database schema with proper relationships
-- Implemented CRUD operations using [ADO.NET](http://ADO.NET)
+- Implemented CRUD operations using ADO.NET
 - Handled concurrent data access scenarios
 
 **OOP Principles Applied**
@@ -162,8 +166,8 @@ The source code is kept in a **Private Repository** to protect the intellectual 
 
 **Connect with me:**
 
-- LinkedIn: [https://www.linkedin.com/in/marwa-mahmoud123]
-- Portfolio: [https://marwa-mahmoud-sw-eng.vercel.app/]
+- LinkedIn: [marwa-mahmoud123](https://www.linkedin.com/in/marwa-mahmoud123)
+- Portfolio: [marwa-mahmoud-sw-eng.vercel.app](https://marwa-mahmoud-sw-eng.vercel.app/)
 
 ---
 
