@@ -120,7 +120,7 @@ The project demonstrates practical application of theoretical concepts learned d
 **Database Integration**
 
 - Designed normalized database schema with proper relationships
-- Implemented CRUD operations using ADO.NET
+- Implemented CRUD operations
 - Handled concurrent data access scenarios
 
 **OOP Principles Applied**
