@@ -137,9 +137,8 @@ The project demonstrates practical application of theoretical concepts learned d
 
 ---
 
-## 📺 Technical Walkthrough Video
-
-For a complete demonstration of the application's features and functionality, watch the technical walkthrough:
+## 📺  Product Demo
+A brief walkthrough of the application's interface and the end-to-end user journey:
 
 https://github.com/user-attachments/assets/c33dd7e5-9d34-4955-90b2-07938810e821
 
